@@ -3,10 +3,13 @@ PHP application using OOP and Design Patterns.
 
 In order to run, open CMD and type:
 
+```
 php main.php
+```
 
 Output example:
 
+```
 Orderus: health: 84
  strenght: 78
  luck:15
@@ -88,3 +91,4 @@ Orderus health: 12
 Beast health: -24
 
 Orderus wins!
+```
